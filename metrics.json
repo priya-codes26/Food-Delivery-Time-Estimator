@@ -1,0 +1,9 @@
+{
+    "algorithm": "Random Forest Regressor",
+    "rows_used": 205,
+    "training_rows": 164,
+    "testing_rows": 41,
+    "mae_minutes": 2.11,
+    "rmse_minutes": 3.4,
+    "r2_score": 0.95
+}
